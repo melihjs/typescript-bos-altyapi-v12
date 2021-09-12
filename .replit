@@ -1,0 +1,2 @@
+language="NodeJS"
+run="npm run build"
